@@ -3,15 +3,6 @@
 **Authors**:
 [Goutham Deepak]
 
-
-<br/>
-
-<div align = center>
-<img src="./assets/demo1.png">
-</div>
-
-<br/>
-
 # Steps to Replicate
 ## Step 1: Setting up the environment and getting the pre-requisites ready before the running of the code.: 
 ### Download the FashionIQ dataset: [Link](https://drive.google.com/drive/folders/1DVb606AG1aP9QZ-VIy9qRGaSz-VnbrYq?usp=sharing)<br>
